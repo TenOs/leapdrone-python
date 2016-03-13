@@ -1,0 +1,5 @@
+.idea
+*.pyc
+.sonar
+doc/_build
+sonar-project.properties
